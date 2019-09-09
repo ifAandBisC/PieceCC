@@ -21,8 +21,8 @@ Page({
 
   onShareAppMessage: function() {
     return {
-      title: 'litemall小程序商场',
-      desc: '开源微信小程序商城',
+      title: '拼夕夕-PieceCC',
+      desc: '2019秋季实训',
       path: '/pages/index/index'
     }
   },

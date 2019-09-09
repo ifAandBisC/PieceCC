@@ -1,10 +1,10 @@
 // 以下是业务服务器API地址
 // 本机开发时使用
-// var WxApiRoot = 'http://localhost:8080/wx/';
+// WxApiRoot = 'http://localhost:8080/wx/';
 // 局域网测试使用
-// var WxApiRoot = 'http://10.10.8.23:8080/wx/';
+var WxApiRoot = 'http://192.168.1.108:8080/wx/';
 // 云平台部署时使用
-var WxApiRoot = 'http://47.102.111.5:8080/wx/';
+// var WxApiRoot = 'http://47.102.111.5:8080/wx/';
 // 云平台上线时使用
 // var WxApiRoot = 'http://mall.ssuxj.com/wx/';
 
