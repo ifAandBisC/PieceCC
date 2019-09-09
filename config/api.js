@@ -2,9 +2,15 @@
 // 本机开发时使用
 // WxApiRoot = 'http://localhost:8080/wx/';
 // 局域网测试使用
+<<<<<<< Updated upstream
 var WxApiRoot = 'http://192.168.1.108:8080/wx/';
 // 云平台部署时使用
 // var WxApiRoot = 'http://47.102.111.5:8080/wx/';
+=======
+//var WxApiRoot = 'http://172.20.10.2:8080/wx/';
+// 云平台部署时使用
+ var WxApiRoot = 'http://47.102.111.5:8080/wx/';
+>>>>>>> Stashed changes
 // 云平台上线时使用
 // var WxApiRoot = 'http://mall.ssuxj.com/wx/';
 
